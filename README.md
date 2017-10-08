@@ -24,8 +24,7 @@ alias youtube-dl-playlist-mp3='youtube-dl --extract-audio --audio-format mp3 -o 
 
 **Commands**
 
-**`youtube-dl-mp3`** 
+- **`youtube-dl-mp3`** 
 convert the given YouTube playlist to local mp3 file 
-
-**`youtube-dl-playlist-mp3`**
+- **`youtube-dl-playlist-mp3`**
 convert the given YouTube video to local mp3 files
