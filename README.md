@@ -1,4 +1,4 @@
-# youtube-dl-snippets
+# youtube-dl snippets
 Some snippets for youtube-dl.
 
 ## Setup (Mac OSX)
