@@ -3,7 +3,7 @@ Some snippets for youtube-dl (Mac version)
 
 ## Setup
 
-You can have youtube-dl working on your Mac in many ways but here we're using `brew`
+You can have youtube-dl working on your Mac in many ways. I'm using `brew` for this repository.
 
 1. install **brew**
 
@@ -20,6 +20,6 @@ You can have youtube-dl working on your Mac in many ways but here we're using `b
 ## Aliases
 
 - **`youtube-dl-mp3 YOUTUBE_VIDEO_URL`** 
-convert the given YouTube playlist to local mp3 file 
+convert the given YouTube video URL to local mp3 file 
 - **`youtube-dl-playlist-mp3 YOUTUBE_PLAYLIST_URL`**
-convert the given YouTube video to local mp3 files
+convert the given YouTube playlist URL to local mp3 files
