@@ -17,3 +17,11 @@ or if You have `brew`:
 Convert the given YouTube video to local mp3 file (example: `youtube-dl-mp3 https://www.youtube.com/watch?v=_DV7Lfxdp_0`)
 
 - `alias youtube-dl-mp3='youtube-dl --extract-audio --audio-format mp3'`
+
+---
+
+**`youtube-dl-playlist-mp3`**
+
+Convert the given YouTube playlist to local mp3 files (example: `youtube-dl-playlist-mp3 https://www.youtube.com/watch?v=R68myh0eWAU&list=RDR68myh0eWAU`)
+
+- `alias youtube-dl-playlist-mp3='youtube-dl --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s"'`
