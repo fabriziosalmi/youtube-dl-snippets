@@ -12,8 +12,8 @@ or if You have `brew`:
 
 ## Snippets
 
-**`youtube-dl-mp3`** convert the given YouTube video to local mp3 file
+**`youtube-dl-mp3`** 
+
+Convert the given YouTube video to local mp3 file (example: `youtube-dl-mp3 https://www.youtube.com/watch?v=_DV7Lfxdp_0`)
 
 - `alias youtube-dl-mp3='youtube-dl --extract-audio --audio-format mp3'`
-
-example: `youtube-dl-mp3 https://www.youtube.com/watch?v=_DV7Lfxdp_0`
