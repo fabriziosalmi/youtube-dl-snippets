@@ -13,16 +13,15 @@ You can have youtube-dl working on your Mac in many ways but here we're using `b
 
 `brew install youtube-dl`
 
-## Snippets
-
-**Configure aliases**
+3. install **youtube-dl-aliases**
 
 ```
-alias youtube-dl-mp3='youtube-dl --extract-audio --audio-format mp3'
-alias youtube-dl-playlist-mp3='youtube-dl --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s"'
+git clone https://github.com/fabriziosalmi/youtube-dl-snippets
+cd youtube-dl-snippets
+sh youtube-dl-aliases.sh
 ```
 
-**Execute aliases**
+## Aliases
 
 - **`youtube-dl-mp3 YOUTUBE_VIDEO_URL`** 
 convert the given YouTube playlist to local mp3 file 
