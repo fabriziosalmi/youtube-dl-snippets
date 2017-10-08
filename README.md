@@ -16,9 +16,7 @@ You can have youtube-dl working on your Mac in many ways but here we're using `b
 3. install **youtube-dl-aliases**
 
 ```
-git clone https://github.com/fabriziosalmi/youtube-dl-snippets
-cd youtube-dl-snippets
-sh youtube-dl-aliases.sh
+git clone https://github.com/fabriziosalmi/youtube-dl-snippets && cd youtube-dl-snippets && sh youtube-dl-aliases.sh
 ```
 
 ## Aliases
